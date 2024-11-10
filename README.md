@@ -12,3 +12,8 @@ Hardware
 Software
 
 1.Code Composer Studio
+
+**Group Members:**
+
+1. Gurvir Singh - 210020012
+1. Ashis Pradhan - 210020003
